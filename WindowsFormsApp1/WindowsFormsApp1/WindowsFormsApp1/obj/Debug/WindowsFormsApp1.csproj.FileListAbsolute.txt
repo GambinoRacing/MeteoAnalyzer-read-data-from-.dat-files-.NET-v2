@@ -1,0 +1,73 @@
+C:\Users\Master\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Master\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Master\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Master\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Master\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Master\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Master\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Master\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Master\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_login.resources
+C:\Users\Master\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_main.resources
+C:\Users\admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_login.resources
+C:\Users\admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_main.resources
+C:\Users\admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\PizhevSoftware\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\PizhevSoftware\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\PizhevSoftware\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\PizhevSoftware\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\PizhevSoftware\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\PizhevSoftware\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\PizhevSoftware\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_login.resources
+E:\PizhevSoftware\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_main.resources
+E:\PizhevSoftware\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\PizhevSoftware\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_login.resources
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_main.resources
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\sqlite3.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\sqlite3.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x86\sqlite3.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\x64\sqlite3.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_login.resources
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_main.resources
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\MeteoAnalyzer - D.Atanasov\MeteoAnalyzer - D.Atanasov\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
